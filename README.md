@@ -1,2 +1,2 @@
 # gitdemo
-Git demo
+Here git demo for git bash commands
